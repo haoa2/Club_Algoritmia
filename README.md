@@ -54,4 +54,6 @@ R2 	P2 - Celebrity jeopardy 	UVA
 49 	P49 - Jill Rides Again 	UVA
 50 	P50 - Bicoloring 	UVA
 
+http://a2oj.com/Contest.jsp?ID=21006
+
 Todos los programas del Club de Algoritmia
