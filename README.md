@@ -10,7 +10,7 @@ R|2 	|P2 - Celebrity jeopardy 	|UVA
 -|4 	|P4 - Searching for Nessy 	|UVA
 -|5 	|P5 - Relational Operator 	|UVA
 -|6 	|P6 - Parking 	|UVA
--|7 	|P7 - Division of Nlogonia 	|UVA
+R|7 	|P7 - Division of Nlogonia 	|UVA
 -|8 	|P8 - Automatic Answer 	|UVA
 -|9 	|P9 - Cost Cutting 	|UVA
 -|10 	|P10 - Language Detection 	|UVA
