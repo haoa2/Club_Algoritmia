@@ -8,7 +8,7 @@ R|1 	|P1 - TEX Quotes 	|UVA
 R|2 	|P2 - Celebrity jeopardy 	|UVA
 - |3 	|P3 - Combination Lock 	|UVA
 -|4 	|P4 - Searching for Nessy 	|UVA
--|5 	|P5 - Relational Operator 	|UVA
+R|5 	|P5 - Relational Operator 	|UVA
 -|6 	|P6 - Parking 	|UVA
 R|7 	|P7 - Division of Nlogonia 	|UVA
 -|8 	|P8 - Automatic Answer 	|UVA
@@ -29,7 +29,7 @@ R|7 	|P7 - Division of Nlogonia 	|UVA
 -|23 	|P23 - Jumping Mario 	|UVA
 -|24 	|P24 - Horror Dash 	|UVA
 -|25 	|P25 - Lumberjack Sequencing 	|UVA
--|26 	|P26 - Google is Feeling Lucky 	|UVA
+R|26 	|P26 - Google is Feeling Lucky 	|UVA
 -|27 	|P27 - Tariff Plan 	|UVA
 -|28 	|P28 - Zapping 	|UVA
 -|29 	|P29 - Robot Instructions 	|UVA
