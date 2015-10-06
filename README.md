@@ -3,6 +3,7 @@
 --Los Problemas con una 'R' al principio, ya los resolví
 
  	|Problem Name 	|Online Judge
+--------|--------|-------
 R1 	|P1 - TEX Quotes 	|UVA
 R2 	P2 - Celebrity jeopardy 	UVA
 3 	P3 - Combination Lock 	UVA
