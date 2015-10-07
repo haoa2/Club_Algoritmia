@@ -13,7 +13,7 @@ R|5 	|P5 - Relational Operator 	|UVA
 R|7 	|P7 - Division of Nlogonia 	|UVA
 -|8 	|P8 - Automatic Answer 	|UVA
 -|9 	|P9 - Cost Cutting 	|UVA
--|10 	|P10 - Language Detection 	|UVA
+R|10 	|P10 - Language Detection 	|UVA
 -|11 	|P11 - Emoogle Balance 	|UVA
 -|12 	|P12 - One-Two-Three 	|UVA
 -|13 	|P13 - Packing for Holiday 	|UVA
